@@ -40,9 +40,9 @@ I'm a Senior Software Engineer with over 8 years of experience building scalable
 
 ## 📫 Let's Connect
 
-- 🔗 Portfolio: [akiradigital.dev](https://akiradigital.dev)
-- 📧 Email: akira.nakao.1204@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/akira-nakao](https://www.linkedin.com/in/akira-nakao/)
+- 🔗 Portfolio: [akira-nakao.netlify.app](https://akira-nakao.netlify.app/)
+- 📧 Email: akiranakao.yy@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/akira-nakao-143b75364](https://www.linkedin.com/in/akira-nakao-143b75364)
 - 🧪 GitHub Projects: Check pinned repos below!
 
 Thanks for visiting my profile — feel free to reach out for collaborations, freelance work, or exciting engineering challenges!
